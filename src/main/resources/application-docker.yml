@@ -1,9 +1,9 @@
-server:
-  port: 27
+#server:
+#  port: 27
 
 spring:
   data:
     mongodb:
       database: tools
-      host: 192.168.11.72
-      port: 27017
+      host: my-mongodb-s
+      port: 27018
