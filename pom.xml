@@ -4,10 +4,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>com.newapp</groupId>
-		<artifactId>services</artifactId>
-		<version>1.0-SNAPSHOT</version>
-<!--		<relativePath>pom.xml</relativePath> &lt;!&ndash; Indicates that the parent POM is at the root directory of the project &ndash;&gt;-->
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>3.0.2</version>
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
 	<artifactId>k-service</artifactId>
