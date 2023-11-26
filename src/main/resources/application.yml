@@ -12,5 +12,5 @@ spring:
   data:
     mongodb:
       database: tools
-      host: my-mongodb-s
+      host: localhost
       port: 27017
